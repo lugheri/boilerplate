@@ -19,3 +19,5 @@ jspm_packages/
 .env.local
 
 .temp
+
+.npmrc
